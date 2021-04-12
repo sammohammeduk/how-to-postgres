@@ -1,2 +1,2 @@
 # how-to-postgres
-Public Database to showcase postgres database development and functionality
+Public repo to showcase postgres database development and functionality
