@@ -1,7 +1,3 @@
--- Table: people.person_name
-
--- DROP TABLE people.person_name;
-
 CREATE TABLE people.person_name
 (
     person_name_id bigserial NOT NULL,
